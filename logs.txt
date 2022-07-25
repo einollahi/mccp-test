@@ -1,0 +1,90 @@
+
+> mccp-cypress@1.0.0 test D:\Projects\mccp_test_v3
+> npm run cypress:run
+
+
+> mccp-cypress@1.0.0 cypress:run D:\Projects\mccp_test_v3
+> cypress run
+
+
+
+====================================================================================================
+
+  (Run Starting)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Cypress:        9.5.4                                                                          │
+  │ Browser:        Electron 94 (headless)                                                         │
+  │ Node Version:   v14.17.1 (C:\Program Files\nodejs\node.exe)                                    │
+  │ Specs:          1 found (mccp.spec.js)                                                         │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                    
+  Running:  mccp.spec.js                                                                    (1 of 1)
+
+
+  TEST MCCP <ARMAN>
+    √ test << arman >> is processed (33251ms)
+
+  TEST MCCP <MA>
+    √ test << ma >> is processed (30268ms)
+
+  TEST MCCP <MIHAN>
+    √ test << mihan >> is processed (33651ms)
+
+  TEST MCCP <NOVIN>
+    √ test << novin >> is processed (36073ms)
+
+  TEST MCCP <OMID>
+    √ test << omid >> is processed (30242ms)
+
+  TEST MCCP <PARSIAN>
+    √ test << parsian >> is processed (36109ms)
+
+  TEST MCCP <SARMAD>
+    √ test << sarmad >> is processed (33844ms)
+
+  TEST MCCP <SINA>
+    √ test << sina >> is processed (35082ms)
+
+  TEST MCCP <TAAVON>
+    √ test << taavon >> is processed (33597ms)
+
+  TEST MCCP <TEJARAT>
+    √ test << tejarat >> is processed (33316ms)
+
+  TEST MCCP <TIC>
+    √ test << tic >> is processed (33043ms)
+
+
+  11 passing (6m)
+
+
+  (Results)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Tests:        11                                                                               │
+  │ Passing:      11                                                                               │
+  │ Failing:      0                                                                                │
+  │ Pending:      0                                                                                │
+  │ Skipped:      0                                                                                │
+  │ Screenshots:  0                                                                                │
+  │ Video:        false                                                                            │
+  │ Duration:     6 minutes, 8 seconds                                                             │
+  │ Spec Ran:     mccp.spec.js                                                                     │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+====================================================================================================
+
+  (Run Finished)
+
+
+       Spec                                              Tests  Passing  Failing  Pending  Skipped  
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ ✔  mccp.spec.js                             06:08       11       11        -        -        - │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+    ✔  All specs passed!                        06:08       11       11        -        -        -  
+

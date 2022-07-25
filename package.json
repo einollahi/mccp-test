@@ -1,0 +1,29 @@
+{
+  "name": "mccp-cypress",
+  "version": "1.0.0",
+  "description": "mccp.iraneit.com automatic test runtime",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cypress": "^9.5.4",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "forever": "^4.0.3",
+    "pm2": "^5.2.0"
+  },
+  "scripts": {
+    "start": "npm run pm2",
+    "cypress": "cypress ",
+    "cypress:run": "cypress run",
+    "test": "npm run cypress:run",
+    "forever:start": "forever --minUptime 60000 --spinSleepTime 300000 ./src/index.js",
+    "forever:stop": "cd .node_modules/.bin/forever stopall",
+    "pm2": "pm2 start ./src/index.js -f --name MCCP_ONE --cron \"0,20,40 8-21 * * *\"",
+    "pm2:list": "pm2 list",
+    "kill": "pm2 kill",
+    "flush": "pm2 flush MCCP_ONE"
+  },
+  "author": "Alireza Einollahi",
+  "license": "ISC"
+}

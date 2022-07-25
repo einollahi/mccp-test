@@ -1,0 +1,29 @@
+{
+  "Id": 2498,
+  "IsActive": 1,
+  "IsAPIConsumer": true,
+  "IsAPIProvider": true,
+  "Logo": "iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAIx0lEQVR4Xu2d4RWUOhCFLcESLOGV4LECS7AES/Df+2kJlmAJlmAJlmAJ792Pk+HMZsPKQsIyOPecexYChEluZgghsG8SiU348P7fT+KXAXxXTrELyue9OMrGZ/m+mBUHMvqH+N8Abq4MHYug311eZ+GXYmIcyOhTCKz934p4ye9y/BmZAjuuFlj7fhR/uWPPyhTYcZXA2u9bddyZmQI7PhRY2wnJP93+EZgCOy4KrG0RxYUpsOMjgc/YQ17DFNixKbDSP1f7RWIK7HgnsNLeVftEYwrs2BJ41LmOYgrseCMw69X2iEyBHWuBo3svTIEdZ4G1HP3aa0yBHb3AjDG39onGFNjRCxxxUKPFFNhxEli/VwnPMAV2NIF5ttvaHpEpsKMJ/LVKj8wU2NEEHpX/K5gCO5rArW1RmQI7psBngIweJnBha9sjYg9kpoef0fhq8hSsy0zRQyGjXyUwk+t4LkzFsd/bYlKiJ1SxRwqMqPSq/ymn3w3yEs3rIY3GvI7zx/O6nlAFjBTY7oER9lM5ZXco7z9N3OP8lJNo0a1xhUApeKtS9hKB8SI8ajH8ahsjXXj1kh2kk8+iJ2obc7yemU/NFF3Evv5lQYUcKfAjYS20to5dIp7aFFrpW0fMyPO6QqtwwwQup7iDtu2Zl9UM90p71os9Oe5zyepaUMEOFVjpvSa63wmitL15UxfX8uZSqFZh9/JOYKX1Hpe+8WSt8wpMa79niDdfpyOmwhwisNZ7VH6LsxhaJky39nmW1xFZBTlK4FEvl/0sp5ig9V7lQeT44VqFGPU4bxZYy6OfCX8sp+pdnh8l27hQIbjHbBVuL+eBeS2PnrLzvZxqRGOK3btWAerhxF6cBNbvUVN2pnCq397liR+qqwL1ogl81JQdf0lobd/DryXrmFABRrztN1WKfkddAmrOobSxbS9je7GMH+FlUwdFv0cJ7K/5I3rswx6WHAIVoHelvFLgEbd+c0cuJFSA7l5c8j1KYH+rNOTevmQfFypEby9mZGlUL72mH9EaNXgTe3RLBegtxvTIsEobwd+lCBO0PkrgOUqEhQrRM6TardLob3J8m4wv0PoogefrfGioIL0e6U0dE/2ODtM3kwC0PqpBXUNgoML0EHkOnVoe5VU33guUNqpjdx2BAQWqCriF03VLvwxZMmDQ2mcrmwMQSkuB10KFIrzu6V3PHqblnqEacZu9WqWnwM+CwolbPPDGy7TMg/+9nrwoLtC2FHgLVEBueZgw96xH31SM1plRufURItfypZmV06R6MQXeCxWWiqRC14p953FKY/Rs7fE0iOZ4sNIJ/dZguNanwD2hglOphF4qllsUvKwOwzdTazy0zbzOjjWyvvg2gtJpIOw3n6ekp8ARoQqmISD44n1u2S8FPhtUeYRZT0Qyr159vS55pcAGGX0T4oJzugzoNwU2yOgrCTz6GXQK/GKOniaUAr+Y07ws/abABhl9JYGn2yn9psAGGX0Vgf2TqxTYIKOvIrB/uyEFNsjoqwg8D2NqOQU2yOgrCFw/sUqBDTL6CgLXc7JSYIOMvoLA9ZysFNggo6MLnHOyHkFGRxaYa+/dw3+lpcAGGR1Z4ObL2UpPgQ0yOqrAiy+DaVsKbJDREQXm+fDi+7ralgIbZHQ0gR+KC7Q9BTbI6EgCM7vjobhA+6TABhkdQWB6y6u/dqN9U2CDjD67wLwj1ZwHvQTtnwIbZPQZBcZjmXP9lLAGHZcCG2T04hTUg0iniUaGpyLM4ispa6E8bL50b8b+EEsikUgkEolEIpFIJBKJRCKRiIIP5XMSZTVxFUhUviBk/9jyqyQnrgAJWn+7Kz34CpCQeG39NO2PU4ISASAReaTovRbyza7djysTL4QEbHktwnb52LfyyQbyKiCiWHvtrv9E0vH0uu3LAjSe+H+HFw2l4muvRei7v8BdCx3L1/2Y5WH5EQXIM2d9HAlVOF/Gq70WYTZ3pHQsXlvnCe9ehEsMgiobEbyHGXf92aSOJxogLh7LHDI7B3PKsvc9GlSy2PqLWW5/ekzoQ8gYt1Iycvr0blkND5WlFY4hgu8WRHlQX+S3KwocBhlKawz/X0Aqw9J3p0nb3JGqobyoL8v33LdDMtBaY8jrBnaLXANbwsIuXmtQXnwB1+dPpDivyDJuao1ldYLWqZRT/1eu7KOizZNa7Oq1QPlZx6o+1zlDtQwz74XT6yH69YV4eC+n7dMjNZGBg+ERQOdAVBrfkrcasamrPeQn0qmqz4Ut54x+MszfPkw9QpHrmKUtdryq/YzkgQAIvul9IoOOxxb7IDiDEy3PqUl5NodLHUuDp4PGOed8tIwdlA0b2E75KCd2nTM8F0PrCqIAviKbIU7peK4/bom0biqdCltDKoz914jpyXl2jRzpeARr5WvRApvO3aEyyNC6o7DEZuhRuvf8V7KHsEuht2aMoUcZirjmIfW4rGfz4yZKX9s4RpIGtrvClcdacWOMEchQH5YJiY9CbTMcKf1V3ou3YvOua7tB+VxHXBlJ58ELM/93kZbtGuO59N0p896potlPHCU4UYYIwzm6iOqhPLGbc1inEPrbLrZ3vc0aAhmJGL7SWJ+vrVqmYBayp+1l0x20zTodd9dmpSE+YlBhVM4a7zCSJ8dwLHkM7cyUc3C+7g3nMMh4QhCFwAumcFw23aHs+7C1ljwQY9O1T8dxOaARGONW7gqofDTWGGWUoXatzmmkDqqPpbsMGyMgIp771opCiHadDv9A4lkgkEgUvPFGrRPRmgIqzfdrzusUMs73NP/KOUaUu5QfMSeR+S1plj6LrOXWCN/5Omsyqr6NOH+PsjMosys/nMYG9Fs/5PB/BNLqXJ5vrFpGWcuFl5kM8AyqOoCs0/B9GvQC+/AMzzc/S0b5lvtXTiBTuVuDQHZfXqfPdxZa9pFvDuunQjHy4a3V1YEwIgJ5IWn49aVraVyA26S/tv5CQAIhsok5RzItIzLX4WYvOhEIRczm4I7SO4ffN2/+B3Jq6CuQgUL+AAAAAElFTkSuQmCC",
+  "Name": "Sarmad",
+  "Title": "بیمه سرمد",
+  "Type": 525,
+  "InformationMessage": "قابل توجه کلیه مراکز درمانی طرف قرارداد بیمه سرمد : در صورت عدم امکان صدور معرفی نامه از طریق این صفحه در هر ساعت از شبانه روز ، لطفا با شماره 1516 ( امور مشتریان ) تماس حاصل فرمایید ",
+  "CorpApiVerList": [
+    {
+      "Id": 25,
+      "CorpId": 2498,
+      "FromDate": "1399/08/01",
+      "ToDate": "1400/08/01",
+      "IsActive": true,
+      "Ver": "V1"
+    },
+    {
+      "Id": 19,
+      "CorpId": 2498,
+      "FromDate": "1399/03/26",
+      "ToDate": "1400/02/01",
+      "IsActive": true,
+      "Ver": "v1"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+﻿{
+  "baseUrl": "https://mccp.iraneit.com/#/",
+  "ignoreTestFiles": "**/examples/**/**.spec.js",
+  "viewportHeight": 726,
+  "viewportWidth": 1368,
+  "exprimentalSessionSupport": true,
+  "trashAssetsBeforeRuns": true,
+  "screenshotOnRunFailure": true,
+  "video": false,
+  "env": {
+    "TIMEOUT": 120,
+    "WAIT": 30,
+    "ACTIVE_CORP": "CORPS_GROUP_TWO",
+    "CORPS_GROUP_ONE": {
+      "CORPS": ["alborz", "asia", "atie", "razi"],
+      "USERNAME": "username",
+      "PASSWORD": "password"
+    },
+    "CORPS_GROUP_TWO": {
+      "CORPS": [
+        "arman",
+        "ma",
+        "mihan",
+        "novin",
+        "omid",
+        "parsian",
+        "sarmad",
+        "sina",
+        "taavon",
+        "tejarat",
+        "tic"
+      ],
+      "USERNAME": "username",
+      "PASSWORD": "password"
+    },
+    "EXCLUDE": []
+  },
+  "retries": 3
+}

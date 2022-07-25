@@ -1,0 +1,17 @@
+module.exports.insuranceCompaniesList = Object.freeze({
+  alborz: 'شرکت البرز',
+  arman: 'شرکت آرمان',
+  asia: 'شرکت آسیا',
+  atie: 'شرکت آتیه',
+  ma: 'شرکت ما',
+  mihan: 'شرکت میهن',
+  novin: 'شرکت نوین',
+  omid: 'شرکت امید',
+  parsian: 'شرکت پارسیان',
+  razi: 'شرکت رازی',
+  sarmad: 'شرکت سرمد',
+  sina: 'شرکت سینا',
+  taavon: 'شرکت تعاون',
+  tejarat: 'شرکت تجارت',
+  tic: 'شرکت معلم',
+});
